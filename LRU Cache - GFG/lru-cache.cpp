@@ -8,8 +8,6 @@ using namespace std;
 
 class LRUCache
 {
-    private:
-
     public:
     //Constructor for initializing the cache capacity with the given value.
     class node
